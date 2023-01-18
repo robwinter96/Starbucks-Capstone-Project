@@ -31,7 +31,7 @@ The report can be read by opening the Starbucks_Capstone_notebook.html file. The
 
 ## Acknowledgements 
 
-
+Starbucks and Udacity for providing the datasets included in this repository
 
 ## Contact
 If you have any questions or feedback, feel free to get in touch!
