@@ -13,7 +13,7 @@ However, an improvement could be made by adding further steps to this project wh
 ## File Descriptions
 - Starbucks_Capstone_notebook.html - The main report document in html format.
 - Starbucks_Capstone_notebook.ipynb - The jupyter notebook where analysis and modelling can be run. The code is written in Python.
-- data/ - A directory containing the data used for this study. The data is in json format.
+- data/ - A zipped directory containing the data used for this study. The data is in json format. This folder will require unzipping before running the jupyter notebook file
 
 ## Dependencies
 This report was generated using Python version 3.8. The following libraries were used:
