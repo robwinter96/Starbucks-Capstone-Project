@@ -1,6 +1,6 @@
 # Starbucks-Capstone-Project
 
-# Forecasting Offer Views: How Random Forest Classifiers Boost Starbucks Marketing Campaigns
+# Predicting Offer Views: How Random Forest Classifiers Boost Starbucks Marketing Campaigns
 
 ## Overview
 This report presents a study that aimed to predict whether users of the Starbucks app will view offers if they are sent to them. 3 classifier models were trialled to make these predictions which included Random Forest Classifier, Logistic Regression and K-Nearest Neighbor. The results of this study have the potential to greatly improve the effectiveness of marketing campaigns for businesses like Starbucks.
