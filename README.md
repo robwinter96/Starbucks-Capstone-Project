@@ -5,6 +5,8 @@
 ## Overview
 This report presents a study that aimed to predict whether users of the Starbucks app will view offers if they are sent to them. 3 classifier models were trialled to make these predictions which included Random Forest Classifier, Logistic Regression and K-Nearest Neighbor. The results of this study have the potential to greatly improve the effectiveness of marketing campaigns for businesses like Starbucks.
 
+Attached is a link to the Medium blog post associated with this project - https://medium.com/@robwinter96/predicting-offer-views-how-random-forest-classifiers-boost-starbucks-marketing-campaigns-ba112609cb2d
+
 ## Summary of Results
 The results of the analysis showed that the Random Forest Classifier performed the best, with a recall score of 99.7%, followed by k-Nearest Neighbors with a recall score of 98.3 % and Logistic Regression with a recall score of 98.2%. It was concluded that the Random Forest Classifier is the most suitable model for this particular task due to its ability to handle a large number of input variables and its higher accuracy rate. 
 
