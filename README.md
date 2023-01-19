@@ -8,9 +8,9 @@ This report presents a study that aimed to predict whether users of the Starbuck
 Attached is a link to the Medium blog post associated with this project - https://medium.com/@robwinter96/predicting-offer-views-how-random-forest-classifiers-boost-starbucks-marketing-campaigns-ba112609cb2d
 
 ## Summary of Results
-The results of the analysis showed that the Random Forest Classifier performed the best, with a recall score of 99.7%, followed by k-Nearest Neighbors with a recall score of 98.3 % and Logistic Regression with a recall score of 98.2%. It was concluded that the Random Forest Classifier is the most suitable model for this particular task due to its ability to handle a large number of input variables and its higher accuracy rate. 
+The results of the analysis showed that the Logistic Regression performed the best, with a recall score of 92%, followed by Random Forest Classifier with a recall score of 90% and k-Nearest Neighbors with a recall score of 89%. 
 
-However, an improvement could be made by adding further steps to this project which could predict the affect on additional revenue the selected offer may have on the user. If we continued with this, Logistic Regression would provide a faster initial prediction whilst maintaining a comparable recall score.
+Looking to the future, an improvement could be made by adding further steps to this project which could predict the affect on additional revenue the selected offer may have on the user. 
 
 ## File Descriptions
 - Starbucks_Capstone_notebook.html - The main report document in html format.
@@ -34,6 +34,7 @@ The report can be read by opening the Starbucks_Capstone_notebook.html file. The
 ## Acknowledgements 
 
 Starbucks and Udacity for providing the datasets included in this repository
+Analytics Vidhya Team. (2021). Data leakage and its effect on the performance of an ML model [Blog post]. Available at: https://www.analyticsvidhya.com/blog/2021/07/data-leakage-and-its-effect-on-the-performance-of-an-ml-model/
 
 ## Contact
 If you have any questions or feedback, feel free to get in touch!
